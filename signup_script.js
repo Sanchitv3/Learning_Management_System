@@ -46,7 +46,7 @@ function login() {
         }
 
         alert("SignUp Successful");
-        window.location.href = 'login.html';
+        window.location.href = 'index.html';
 
     }, 1000); // delay of 1 second
 }
